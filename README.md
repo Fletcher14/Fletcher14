@@ -31,11 +31,15 @@ queue instead of being guessed at.
 A false merge writes one person's allergies into another person's chart and cannot be
 undone. Every rule in it is biased by that.
 
-**3 · The return path — in progress**
+**3 · The return path — [patient-lookup-portal](https://github.com/Fletcher14/patient-lookup-portal)** · *in progress*
 The direction that barely exists in practice: hospital outcome data back to the clinician
 who ran the call. You work a stroke, you do everything right, and you never find out
 whether they got tPA. Commercial products serve the *agency* — quality improvement,
 registry submission. Almost nothing serves the medic.
+
+A lookup portal where a paramedic sees the outcome of their own calls, and only their own.
+Scoped before any code, and the access rules are built and tested first: who counts as being
+on the call, which hospital visit belongs to it, and which diagnoses are never shown.
 
 ---
 
