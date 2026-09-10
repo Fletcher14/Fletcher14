@@ -1,4 +1,4 @@
-## Manny Fletcher
+## Emmanuel Fletcher (Manny)
 
 Paramedic. I build the software I wish the job had.
 
