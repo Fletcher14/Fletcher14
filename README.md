@@ -52,7 +52,7 @@ proprietary. Chapter titles include *"the fix that wasn't, and the limit it expo
 *"the forward-detection blind spot"*, which is a fair summary of what the log is for. If
 you want to know how I debug rather than what I've shipped, read that one.
 
-**[homelab](https://github.com/Fletcher14/homelab)** — a single box running 28 containers
+**[homelab](https://github.com/Fletcher14/homelab)** — a single box running about thirty containers
 that backs itself up, watches itself, and tells me when it breaks. Written up as decisions
 and failures rather than a configuration dump — including the honeypot that had never
 caught anything and was paging me daily regardless.
